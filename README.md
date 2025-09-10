@@ -1,2 +1,2 @@
 # Golf-Landing-Page
-Fake golf landing page
+Golf landing page using HTML and CSS
